@@ -1,0 +1,929 @@
+# Translation of Plugins - WooCommerce Cart Abandonment Recovery - Stable (latest release) in French (France)
+# This file is distributed under the same license as the Plugins - WooCommerce Cart Abandonment Recovery - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-01-23 13:41:29+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/3.0.0-rc.2\n"
+"Language: fr\n"
+"Project-Id-Version: Plugins - WooCommerce Cart Abandonment Recovery - Stable (latest release)\n"
+
+#: modules/cart-abandonment/classes/class-cartflows-ca-email-templates.php:754
+#, gp-priority: normal
+msgid "Update Changes"
+msgstr "Enregistrer les modifications"
+
+#: modules/cart-abandonment/classes/class-cartflows-ca-email-templates.php:752
+#, gp-priority: normal
+msgid "Save Changes"
+msgstr "Enregistrer les modifications"
+
+#: modules/cart-abandonment/classes/class-cartflows-ca-email-templates.php:739
+#, gp-priority: normal
+msgid "Send a test email"
+msgstr "Envoyer un e-mail de test"
+
+#: modules/cart-abandonment/classes/class-cartflows-ca-email-templates.php:710
+#, gp-priority: normal
+msgid "Minute(s)"
+msgstr "Minute(s)"
+
+#: modules/cart-abandonment/classes/class-cartflows-ca-email-templates.php:142
+#, gp-priority: normal
+msgid "Site URL"
+msgstr "URL du site"
+
+#: classes/class-cartflows-ca-settings.php:152
+#, gp-priority: normal
+msgid "Coupons Settings"
+msgstr "Réglages des codes promo"
+
+#: classes/class-cartflows-ca-settings.php:159
+#, gp-priority: normal
+msgid "Delete Coupons Automatically"
+msgstr "Supprimer les codes promo automatiquement"
+
+#: classes/class-cartflows-ca-settings.php:163
+#, gp-priority: normal
+msgid "Delete coupons automatically on weekly basis.<br><span class=\"description\"><br/><strong>Note:</strong> This option will set a weekly cron to delete all <strong>expired</strong> and <strong>used</strong> coupons automatically in the background.</p>"
+msgstr "Supprimer les coupons automatiquement sur une base hebdomadaire.<br><span class=\"description\"><br/><strong>Remarque :</strong> cette option configurera un cron hebdomadaire pour supprimer tous les codes promo <strong>expirés</strong> et <strong>utilisés</strong> automatiquement en arrière-plan.</p>"
+
+#: classes/class-cartflows-ca-settings.php:173
+#, gp-priority: normal
+msgid "Delete Coupons Manually"
+msgstr "Supprimer les codes promo manuellement"
+
+#: classes/class-cartflows-ca-settings.php:177
+#, gp-priority: normal
+msgid "<br><strong>Note:</strong> This will delete all <strong>expired</strong> and <strong>used</strong> coupons that were created by Woo Cart Abandonment Recovery.</p>"
+msgstr "<br><strong>Remarque :</strong> cela va supprimer tous les codes promo <strong>expirés</strong> et <strong>utilisés</strong> qui ont été créé avec Woo Cart Abandonment Recovery.</p>"
+
+#: classes/class-cartflows-ca-settings.php:200
+#, gp-priority: normal
+msgid "Name will appear in email sent."
+msgstr "Nom qui apparaîtra dans l’e-mail envoyé."
+
+#: classes/class-cartflows-ca-settings.php:209
+#, gp-priority: normal
+msgid "Email which send from."
+msgstr "E-mail de l’expéditeur."
+
+#: classes/class-cartflows-ca-settings.php:218
+#, gp-priority: normal
+msgid "When a user clicks reply, which email address should that reply be sent to?"
+msgstr "Lorsqu’un utilisateur clique sur répondre, à quelle adresse e-mail cette réponse doit-elle être envoyée ?"
+
+#: classes/class-cartflows-ca-settings.php:307
+#, gp-priority: normal
+msgid "<br/><br/> <span class=\"description\"><strong>Note: </strong>. Enter zero (0) to restrict coupon from expiring.</span>"
+msgstr "<br/><br/> <span class=\"description\"><strong>Remarque : </strong>saisir zéro (0) pour restreindre le coupon à l’expiration.</span>"
+
+#: classes/class-cartflows-ca-settings.php:539
+#: modules/cart-abandonment/classes/class-cartflows-ca-email-templates.php:615
+#: modules/cart-abandonment/classes/class-cartflows-ca-email-templates.php:711
+#, gp-priority: normal
+msgid "Hour(s)"
+msgstr "Heure(s)"
+
+#: classes/class-cartflows-ca-settings.php:540
+#: modules/cart-abandonment/classes/class-cartflows-ca-email-templates.php:616
+#: modules/cart-abandonment/classes/class-cartflows-ca-email-templates.php:712
+#, gp-priority: normal
+msgid "Day(s)"
+msgstr "Jour(s)"
+
+#: modules/cart-abandonment/classes/class-cartflows-ca-tracking.php:989
+#, gp-priority: normal
+msgid "Do you really want to delete the used and expired coupons created by Cart Abandonment Plugin?"
+msgstr "Confirmez-vous la suppression des coupons utilisés et expirés créés par l’extension ?"
+
+#. translators: %1$s: Coupons Deleted, %2$s: Deleted coupons count'.
+#: modules/cart-abandonment/classes/class-cartflows-ca-setting-functions.php:129
+#, gp-priority: normal
+msgid "%1$s: %2$d"
+msgstr "%1$s: %2$d"
+
+#: modules/cart-abandonment/classes/class-cartflows-ca-email-templates.php:136
+#, gp-priority: normal
+msgid "Cart Checkout URL"
+msgstr "URL de la commande"
+
+#: modules/cart-abandonment/classes/class-cartflows-ca-email-templates.php:137
+#, gp-priority: normal
+msgid "Coupon Code"
+msgstr "Code promo"
+
+#: modules/cart-abandonment/classes/class-cartflows-ca-email-templates.php:141
+#, gp-priority: normal
+msgid "Cart Abandonment Date"
+msgstr "Date de l’abandon du panier"
+
+#: modules/cart-abandonment/classes/class-cartflows-ca-email-templates.php:143
+#, gp-priority: normal
+msgid "Unsubscribe Link"
+msgstr "Lien de désabonnement"
+
+#: modules/cart-abandonment/includes/cartflows-ca-single-report-details.php:31
+#, gp-priority: normal
+msgid "Back to Reports"
+msgstr "Retour aux rapports"
+
+#: modules/cart-abandonment/includes/cartflows-ca-single-report-details.php:52
+#, gp-priority: normal
+msgid "All new activated emails will be reschedule for this abandoned order. New emails will be sent to user according to schedule time."
+msgstr ""
+"Tous les nouveaux e-mails activés seront replanifiés pour cette commande abandonnée.<br/>Les nouveaux e-mails vont\n"
+"\t\t\t\t\t\t\t\t\t\t\têtre envoyé à l’utilisateur en fonction de la planification prévue."
+
+#: modules/cart-abandonment/includes/cartflows-ca-single-report-details.php:59
+#, gp-priority: normal
+msgid "Are your sure?"
+msgstr "Confirmez-vous ?"
+
+#: modules/cart-abandonment/includes/cartflows-ca-single-report-details.php:63
+#, gp-priority: normal
+msgid "Reschedule"
+msgstr "Replanifier"
+
+#: modules/cart-abandonment/includes/cartflows-ca-single-report-details.php:67
+#, gp-priority: normal
+msgid "Close"
+msgstr "Fermer"
+
+#: modules/cart-abandonment/includes/cartflows-ca-single-report-details.php:85
+#, gp-priority: normal
+msgid "Scheduled Template"
+msgstr "Modèle planifié"
+
+#: modules/cart-abandonment/includes/cartflows-ca-single-report-details.php:87
+#, gp-priority: normal
+msgid "Email Coupon"
+msgstr "E-mail de code promo"
+
+#: modules/cart-abandonment/includes/cartflows-ca-single-report-details.php:88
+#, gp-priority: normal
+msgid "Email Sent"
+msgstr "E-mail envoyé"
+
+#: modules/cart-abandonment/includes/cartflows-ca-single-report-details.php:89
+#, gp-priority: normal
+msgid "Scheduled At"
+msgstr "Planifié pour le"
+
+#: modules/cart-abandonment/includes/cartflows-cart-abandonment-reports.php:18
+#, gp-priority: normal
+msgid "Today"
+msgstr "Aujourd’hui"
+
+#: modules/cart-abandonment/includes/cartflows-cart-abandonment-reports.php:22
+#, gp-priority: normal
+msgid "Yesterday"
+msgstr "Hier"
+
+#: modules/cart-abandonment/includes/cartflows-cart-abandonment-reports.php:26
+#, gp-priority: normal
+msgid "Last Week"
+msgstr "La semaine dernière"
+
+#: modules/cart-abandonment/includes/cartflows-cart-abandonment-reports.php:30
+#, gp-priority: normal
+msgid "Last Month"
+msgstr "Le mois dernier"
+
+#: modules/cart-abandonment/includes/cartflows-cart-abandonment-reports.php:39
+#, gp-priority: normal
+msgid "Custom Filter"
+msgstr "Filtre personnalisé"
+
+#: modules/cart-abandonment/classes/class-cartflows-ca-email-templates.php:132
+#, gp-priority: normal
+msgid "Admin Firstname"
+msgstr "Prénom de l’admin"
+
+#: modules/cart-abandonment/classes/class-cartflows-ca-email-templates.php:133
+#, gp-priority: normal
+msgid "Admin Company"
+msgstr "Entreprise de l’admin"
+
+#: modules/cart-abandonment/classes/class-cartflows-ca-email-templates.php:134
+#, gp-priority: normal
+msgid "Abandoned Product Details Table"
+msgstr "Tableau des détails du produit abandonné"
+
+#: modules/cart-abandonment/classes/class-cartflows-ca-email-templates.php:135
+#, gp-priority: normal
+msgid "Abandoned Product Names"
+msgstr "Noms des produits abandonnés"
+
+#: modules/cart-abandonment/classes/class-cartflows-ca-email-templates.php:138
+#, gp-priority: normal
+msgid "Customer First Name"
+msgstr "Prénom du client"
+
+#: modules/cart-abandonment/classes/class-cartflows-ca-email-templates.php:139
+#, gp-priority: normal
+msgid "Customer Last Name"
+msgstr "Nom de famille du client"
+
+#: modules/cart-abandonment/classes/class-cartflows-ca-email-templates.php:140
+#, gp-priority: normal
+msgid "Customer Full Name"
+msgstr "Nom complet du client"
+
+#: modules/cart-abandonment/includes/cartflows-ca-single-report-details.php:72
+#, gp-priority: normal
+msgid "Reschedule Emails"
+msgstr "Replanifier les e-mails"
+
+#: modules/cart-abandonment/classes/class-cartflows-ca-tracking.php:347
+#, gp-priority: normal
+msgid "This checkout page is generated by WooCommerce Cart Abandonment Recovery plugin from test mail."
+msgstr "Cette page de paiement est générée par l’extension WooCommerce Cart Abandonnent Recovery à partir d’un e-mail de test."
+
+#: modules/cart-abandonment/classes/class-cartflows-ca-email-templates-table.php:192
+#, gp-priority: normal
+msgid "Activate Template"
+msgstr "Activer le modèle"
+
+#: modules/cart-abandonment/classes/class-cartflows-ca-email-templates.php:170
+#, gp-priority: normal
+msgid "Something went wrong"
+msgstr "Quelque chose s’est mal passé"
+
+#: modules/cart-abandonment/classes/class-cartflows-ca-email-templates.php:177
+#, gp-priority: normal
+msgid "Activated"
+msgstr "Activé"
+
+#: modules/cart-abandonment/classes/class-cartflows-ca-email-templates.php:180
+#, gp-priority: normal
+msgid "Deactivated"
+msgstr "Désactivé"
+
+#: classes/class-cartflows-ca-settings.php:93
+#, gp-priority: normal
+msgid "Disable Tracking For"
+msgstr "Désactiver le suivi pour"
+
+#: classes/class-cartflows-ca-settings.php:97
+#, gp-priority: normal
+msgid " It will ignore selected users from abandonment process when they logged in, and hence they can not receive mail for cart abandoned by themselves."
+msgstr " Lors de la connexion, les utilisateurs provenant d’un abandon du panier seront ignorés. Par conséquent, ils ne peuvent pas recevoir d’e-mail pour les paniers abandonnés par eux-mêmes."
+
+#: modules/cart-abandonment/classes/class-cartflows-ca-email-templates.php:538
+#, gp-priority: normal
+msgid "Allows you to send new coupon only for this template."
+msgstr "Vous permet d’envoyer un nouveau code promo uniquement pour ce modèle."
+
+#: modules/cart-abandonment/classes/class-cartflows-ca-email-templates.php:631
+#, gp-priority: normal
+msgid "Free Shipping"
+msgstr "Livraison gratuite"
+
+#: modules/cart-abandonment/classes/class-cartflows-ca-email-templates.php:651
+#, gp-priority: normal
+msgid "Individual use only"
+msgstr "Utilisation individuelle uniquement"
+
+#: modules/cart-abandonment/classes/class-cartflows-ca-email-templates.php:665
+#, gp-priority: normal
+msgid "Check this box if the coupon cannot be used in conjunction with other coupons."
+msgstr "Cochez cette case si le code promo ne peut être utilisé conjointement avec d’autres codes promo."
+
+#: modules/cart-abandonment/classes/class-cartflows-ca-email-templates.php:672
+#, gp-priority: normal
+msgid "Auto Apply Coupon"
+msgstr "Application automatique du code promo"
+
+#: modules/cart-abandonment/classes/class-cartflows-ca-email-templates.php:686
+#, gp-priority: normal
+msgid " Automatically add the coupon to the cart at the checkout."
+msgstr " Ajoutez automatiquement le coupon promo au panier lors de la commande."
+
+#: modules/cart-abandonment/classes/class-cartflows-ca-email-templates.php:625
+#, gp-priority: normal
+msgid "Enter zero (0) to restrict coupon from expiring"
+msgstr "Saisir zéro (0) pour empêcher que le code promo arrive à expiration"
+
+#: modules/cart-abandonment/classes/class-cartflows-ca-email-templates.php:644
+#, gp-priority: normal
+msgid "Allows you to grant free shipping. A free shipping method must be enabled in your shipping zone and be set to require \"a valid free shipping coupon\". "
+msgstr "Vous permet d’accorder la livraison gratuite. Une méthode de livraison gratuite doit être activée dans votre zone de livraison et définie pour exiger « un code promo de livraison gratuite »."
+
+#. translators: %s: html tags
+#: classes/class-cartflows-ca-loader.php:143
+#, gp-priority: normal
+msgid "The %1$sWooCommerce Cart Abandonment Recovery%2$s plugin requires %1$sWooCommerce%2$s plugin installed & activated."
+msgstr "L’extension %1$sWooCommerce Cart Abandonnent Recovery%2$s nécessite l’installation et l’activation de l’extension %1$sWooCommerce%2$s."
+
+#: classes/class-cartflows-ca-loader.php:152
+#, gp-priority: normal
+msgid "Activate WooCommerce"
+msgstr "Activez l’extension WooCommerce"
+
+#: classes/class-cartflows-ca-loader.php:160
+#, gp-priority: normal
+msgid "Install WooCommerce"
+msgstr "Installer WooCommerce"
+
+#: classes/class-cartflows-ca-settings.php:58
+#, gp-priority: normal
+msgid "Cart Abandonment Settings"
+msgstr "Réglages de l’abandon du panier"
+
+#: classes/class-cartflows-ca-settings.php:65
+#, gp-priority: normal
+msgid "Enable Tracking"
+msgstr "Activer le suivi"
+
+#: classes/class-cartflows-ca-settings.php:189
+#, gp-priority: normal
+msgid "Email Settings"
+msgstr "Réglages de l’e-mail"
+
+#: classes/class-cartflows-ca-settings.php:196
+#, gp-priority: normal
+msgid "\"From\" Name"
+msgstr "Nom de l’expéditeur"
+
+#: classes/class-cartflows-ca-settings.php:205
+#, gp-priority: normal
+msgid "\"From\" Address"
+msgstr "Adresse de l’expéditeur"
+
+#: classes/class-cartflows-ca-settings.php:214
+#, gp-priority: normal
+msgid "\"Reply To\" Address"
+msgstr "Adresse de réponse"
+
+#: classes/class-cartflows-ca-settings.php:241
+#, gp-priority: normal
+msgid "Enable Webhook"
+msgstr "Activer le crochet Web"
+
+#: classes/class-cartflows-ca-settings.php:245
+#, gp-priority: normal
+msgid "Allows you to trigger webhook automatically upon cart abandonment and recovery."
+msgstr "Vous permet de déclencher automatiquement un crochet Web lors de l’abandon et de la récupération du panier."
+
+#: classes/class-cartflows-ca-settings.php:250
+#, gp-priority: normal
+msgid "Webhook URL"
+msgstr "URL du crochet Web"
+
+#: classes/class-cartflows-ca-settings.php:269
+#, gp-priority: normal
+msgid "Coupon Code Settings"
+msgstr "Réglages du code promo"
+
+#: classes/class-cartflows-ca-settings.php:276
+#, gp-priority: normal
+msgid "Create Coupon Code"
+msgstr "Créer un code promo"
+
+#: classes/class-cartflows-ca-settings.php:280
+#, gp-priority: normal
+msgid "Auto-create the special coupon for the abandoned cart to send over the emails."
+msgstr "Créez automatiquement le code promo spécial pour le panier abandonné pour envoyer les e-mails."
+
+#: classes/class-cartflows-ca-settings.php:285
+#: modules/cart-abandonment/classes/class-cartflows-ca-email-templates.php:545
+#, gp-priority: normal
+msgid "Discount Type"
+msgstr "Type de réduction"
+
+#: classes/class-cartflows-ca-settings.php:294
+#: modules/cart-abandonment/classes/class-cartflows-ca-email-templates.php:577
+#, gp-priority: normal
+msgid "Coupon Amount"
+msgstr "Montant du code promo"
+
+#: classes/class-cartflows-ca-settings.php:303
+#, gp-priority: normal
+msgid "Coupon Expires After"
+msgstr "Le code promo expire après"
+
+#: classes/class-cartflows-ca-settings.php:338
+#, gp-priority: normal
+msgid "Webhook Settings"
+msgstr "Réglages du crochet Web"
+
+#: classes/class-cartflows-ca-settings.php:347
+#, gp-priority: normal
+msgid "GDPR Settings"
+msgstr "Réglages RGPD"
+
+#: classes/class-cartflows-ca-settings.php:354
+#, gp-priority: normal
+msgid "Enable GDPR Integration"
+msgstr "Activer l’intégration RGPD"
+
+#: classes/class-cartflows-ca-settings.php:358
+#, gp-priority: normal
+msgid "Ask confirmation from the user before tracking data. <br/><br/> <span class=\"description\"><strong>Note:</strong> By checking this, it will show up confirmation text below the email id on checkout page.</span>"
+msgstr "Demander confirmation à l’utilisateur avant de suivre les données. <br/><br/> <span class=\"description\"><strong>Remarque :</strong> En cochant cette case, le texte de confirmation apparaît sous l’identifiant de l’e-mail sur la page de paiement.</span>"
+
+#: classes/class-cartflows-ca-settings.php:363
+#, gp-priority: normal
+msgid "GDPR Message"
+msgstr "Message RGPD"
+
+#: classes/class-cartflows-ca-settings.php:608
+#, gp-priority: normal
+msgid "Coupon code should be numeric and has to be greater than or equals to 1."
+msgstr "Le code promo doit être numérique et doit être supérieur ou égal à 1."
+
+#: classes/class-cartflows-ca-settings.php:844
+#, gp-priority: normal
+msgid "Invalid email \"From\" address field"
+msgstr "Adresse e-mail de l’expéditeur non valide"
+
+#: classes/class-cartflows-ca-settings.php:862
+#, gp-priority: normal
+msgid "Invalid email \"Reply\" address field"
+msgstr "Adresse e-mail de réponse non valide"
+
+#: modules/cart-abandonment/classes/class-cartflows-ca-order-table.php:85
+#, gp-priority: normal
+msgid "View"
+msgstr "Afficher"
+
+#: modules/cart-abandonment/classes/class-cartflows-ca-email-schedule.php:124
+#: modules/cart-abandonment/classes/class-cartflows-ca-order-table.php:90
+#: modules/cart-abandonment/classes/class-cartflows-ca-order-table.php:142
+#, gp-priority: normal
+msgid "Unsubscribe"
+msgstr "Se désabonner"
+
+#: classes/class-cartflows-ca-tabs.php:451
+#: modules/cart-abandonment/classes/class-cartflows-ca-email-schedule.php:298
+#: modules/cart-abandonment/classes/class-cartflows-ca-order-table.php:236
+#: modules/cart-abandonment/includes/cartflows-ca-single-report-details.php:176
+#, gp-priority: normal
+msgid "Name"
+msgstr "Nom"
+
+#: modules/cart-abandonment/classes/class-cartflows-ca-order-table.php:237
+#, gp-priority: normal
+msgid "Email"
+msgstr "E-mail"
+
+#: classes/class-cartflows-ca-tabs.php:473
+#: modules/cart-abandonment/classes/class-cartflows-ca-order-table.php:238
+#, gp-priority: normal
+msgid "Cart Total"
+msgstr "Total du panier"
+
+#: modules/cart-abandonment/classes/class-cartflows-ca-order-table.php:239
+#, gp-priority: normal
+msgid "Order Status"
+msgstr "État de la commande"
+
+#: modules/cart-abandonment/classes/class-cartflows-ca-order-table.php:240
+#, gp-priority: normal
+msgid "Time"
+msgstr "Horaire"
+
+#: modules/cart-abandonment/classes/class-cartflows-ca-tracking.php:215
+#: modules/cart-abandonment/classes/class-cartflows-ca-tracking.php:831
+#, gp-priority: normal
+msgid "This order was abandoned & subsequently recovered."
+msgstr "Cette commande a été abandonnée et récupérée par la suite."
+
+#: modules/cart-abandonment/classes/class-cartflows-ca-email-schedule.php:52
+#, gp-priority: normal
+msgid "Mail has been sent successfully!"
+msgstr "L’e-mail a bien été envoyé !"
+
+#: modules/cart-abandonment/classes/class-cartflows-ca-email-schedule.php:54
+#, gp-priority: normal
+msgid "Mail sending failed!"
+msgstr "L’envoi de l’e-mail a échoué !"
+
+#: modules/cart-abandonment/classes/class-cartflows-ca-cron.php:63
+#, gp-priority: normal
+msgid "Every Fifteen Minutes"
+msgstr "Toutes les quinze minutes"
+
+#: modules/cart-abandonment/classes/class-cartflows-ca-tracking.php:250
+#, gp-priority: normal
+msgid "You have successfully unsubscribed from our email list."
+msgstr "Vous vous êtes désabonné de notre liste de diffusion avec succès."
+
+#: modules/cart-abandonment/classes/class-cartflows-ca-tracking.php:250
+#: modules/cart-abandonment/includes/cartflows-ca-single-report-details.php:167
+#, gp-priority: normal
+msgid "Unsubscribed"
+msgstr "Désabonné"
+
+#: admin/bsf-analytics/class-bsf-analytics.php:260
+#: modules/cart-abandonment/classes/class-cartflows-ca-tracking.php:389
+#, gp-priority: normal
+msgid "No Thanks"
+msgstr "Non merci"
+
+#: modules/cart-abandonment/classes/class-cartflows-ca-tracking.php:390
+#, gp-priority: normal
+msgid "You won't receive further emails from us, thank you!"
+msgstr "Vous ne recevrez plus d’e-mails de notre part, merci !"
+
+#: classes/class-cartflows-ca-tabs.php:57
+#: classes/class-cartflows-ca-tabs.php:58
+#, gp-priority: normal
+msgid "Cart Abandonment"
+msgstr "Abandon du panier"
+
+#: classes/class-cartflows-ca-tabs.php:83
+#, gp-priority: normal
+msgid "Items deleted: %d"
+msgstr "Éléments supprimés : %d"
+
+#: classes/class-cartflows-ca-tabs.php:100
+#, gp-priority: normal
+msgid "User(s) unsubscribed successfully!"
+msgstr "Utilisateur désabonné avec succès !"
+
+#: classes/class-cartflows-ca-tabs.php:163
+#, gp-priority: normal
+msgid "Report"
+msgstr "Rapport"
+
+#: classes/class-cartflows-ca-tabs.php:179
+#, gp-priority: normal
+msgid "Follow-Up Emails"
+msgstr "E-mails de suivi"
+
+#: classes/class-cartflows-ca-tabs.php:195
+#, gp-priority: normal
+msgid "Settings"
+msgstr "Réglages"
+
+#: modules/cart-abandonment/classes/class-cartflows-ca-email-schedule.php:85
+#, gp-priority: normal
+msgid "there"
+msgstr "là"
+
+#: classes/class-cartflows-ca-tabs.php:450
+#: modules/cart-abandonment/classes/class-cartflows-ca-email-schedule.php:297
+#, gp-priority: normal
+msgid "Item"
+msgstr "Élément"
+
+#: classes/class-cartflows-ca-tabs.php:452
+#: modules/cart-abandonment/classes/class-cartflows-ca-email-schedule.php:299
+#, gp-priority: normal
+msgid "Quantity"
+msgstr "Quantité"
+
+#: classes/class-cartflows-ca-tabs.php:453
+#: modules/cart-abandonment/classes/class-cartflows-ca-email-schedule.php:300
+#, gp-priority: normal
+msgid "Price"
+msgstr "Prix"
+
+#: classes/class-cartflows-ca-tabs.php:454
+#: modules/cart-abandonment/classes/class-cartflows-ca-email-schedule.php:301
+#, gp-priority: normal
+msgid "Line Subtotal"
+msgstr "Ligne de sous-total"
+
+#: classes/class-cartflows-ca-tabs.php:460
+#, gp-priority: normal
+msgid "Discount"
+msgstr "Réduction"
+
+#: classes/class-cartflows-ca-tabs.php:464
+#, gp-priority: normal
+msgid "Other"
+msgstr "Autre"
+
+#: classes/class-cartflows-ca-tabs.php:469
+#, gp-priority: normal
+msgid "Shipping"
+msgstr "Livraison"
+
+#: modules/cart-abandonment/classes/class-cartflows-ca-email-templates-table.php:76
+#, gp-priority: normal
+msgid "Edit"
+msgstr "Modifier"
+
+#: modules/cart-abandonment/classes/class-cartflows-ca-email-templates-table.php:100
+#, gp-priority: normal
+msgid "Clone"
+msgstr "Dupliquer"
+
+#: modules/cart-abandonment/classes/class-cartflows-ca-email-templates-table.php:189
+#, gp-priority: normal
+msgid "Template Name"
+msgstr "Nom du modèle"
+
+#: modules/cart-abandonment/classes/class-cartflows-ca-email-templates-table.php:190
+#: modules/cart-abandonment/includes/cartflows-ca-single-report-details.php:86
+#, gp-priority: normal
+msgid "Email Subject"
+msgstr "Sujet de l’e-mail"
+
+#: modules/cart-abandonment/classes/class-cartflows-ca-email-templates-table.php:191
+#, gp-priority: normal
+msgid "Trigger After"
+msgstr "Déclencher après"
+
+#: modules/cart-abandonment/classes/class-cartflows-ca-email-templates.php:240
+#, gp-priority: normal
+msgid "The Email Template has been successfully added."
+msgstr "Le modèle d’e-mail a bien été ajouté."
+
+#: modules/cart-abandonment/classes/class-cartflows-ca-email-templates.php:250
+#, gp-priority: normal
+msgid "The Email Template has been cloned successfully."
+msgstr "Le modèle d’e-mail a bien été dupliqué."
+
+#: modules/cart-abandonment/classes/class-cartflows-ca-email-templates.php:260
+#, gp-priority: normal
+msgid "The Email Template has been successfully deleted."
+msgstr "Le modèle d’e-mail a bien été supprimé."
+
+#: modules/cart-abandonment/classes/class-cartflows-ca-email-templates.php:269
+#, gp-priority: normal
+msgid "The Email Template has been successfully updated."
+msgstr "Le modèle d’e-mail a bien été mis à jour."
+
+#: modules/cart-abandonment/classes/class-cartflows-ca-email-templates.php:279
+#, gp-priority: normal
+msgid "Default Email Templates has been restored successfully."
+msgstr "Les modèles d’e-mail par défaut ont été restaurés avec succès."
+
+#: modules/cart-abandonment/classes/class-cartflows-ca-email-templates.php:446
+#, gp-priority: normal
+msgid "Activate Template now?"
+msgstr "Activer le modèle maintenant ?"
+
+#: modules/cart-abandonment/classes/class-cartflows-ca-email-templates.php:466
+#, gp-priority: normal
+msgid "Template Name:"
+msgstr "Nom du modèle :"
+
+#: modules/cart-abandonment/classes/class-cartflows-ca-email-templates.php:481
+#, gp-priority: normal
+msgid "Email Subject:"
+msgstr "Sujet de l’e-mail :"
+
+#: modules/cart-abandonment/classes/class-cartflows-ca-email-templates.php:496
+#, gp-priority: normal
+msgid "Email Body:"
+msgstr "Corps de l’e-mail :"
+
+#: modules/cart-abandonment/classes/class-cartflows-ca-email-templates.php:525
+#, gp-priority: normal
+msgid "Create Coupon"
+msgstr "Créer un code promo"
+
+#: modules/cart-abandonment/classes/class-cartflows-ca-email-templates.php:595
+#, gp-priority: normal
+msgid "Coupon expiry date"
+msgstr "Date d’expiration du code promo"
+
+#: modules/cart-abandonment/classes/class-cartflows-ca-email-templates.php:692
+#, gp-priority: normal
+msgid "Send This Email"
+msgstr "Envoyer cet e-mail"
+
+#: modules/cart-abandonment/classes/class-cartflows-ca-email-templates.php:725
+#, gp-priority: normal
+msgid "after cart is abandoned."
+msgstr "après que le panier soit abandonné."
+
+#: modules/cart-abandonment/classes/class-cartflows-ca-email-templates.php:735
+#, gp-priority: normal
+msgid "Send Test Email To:"
+msgstr "Envoyer cet e-mail à :"
+
+#: modules/cart-abandonment/classes/class-cartflows-ca-email-templates.php:1060
+#, gp-priority: normal
+msgid "Create New Template"
+msgstr "Créer un nouveau modèle"
+
+#: modules/cart-abandonment/classes/class-cartflows-ca-email-templates.php:1063
+#, gp-priority: normal
+msgid " Restore Default Templates"
+msgstr " Restaurer les modèles par défaut"
+
+#: modules/cart-abandonment/includes/cartflows-ca-single-report-details.php:42
+#, gp-priority: normal
+msgid "Email Details:"
+msgstr "Détails de l’e-mail :"
+
+#: modules/cart-abandonment/includes/cartflows-ca-single-report-details.php:78
+#, gp-priority: normal
+msgid " No Email Scheduled."
+msgstr " Aucun e-mail programmé."
+
+#: modules/cart-abandonment/includes/cartflows-ca-single-report-details.php:118
+#, gp-priority: normal
+msgid "The email has been unsubscribed and won't be sent further."
+msgstr "L’e-mail a été désabonné et ne sera plus envoyé."
+
+#: modules/cart-abandonment/includes/cartflows-ca-single-report-details.php:121
+#, gp-priority: normal
+msgid "Email is in the queue and will be sent at the scheduled time."
+msgstr "L’e-mail est dans la file d’attente et sera envoyé à l’heure prévue."
+
+#: modules/cart-abandonment/includes/cartflows-ca-single-report-details.php:126
+#, gp-priority: normal
+msgid "The email has been sent."
+msgstr "L’e-mail a été envoyé."
+
+#: modules/cart-abandonment/includes/cartflows-ca-single-report-details.php:130
+#, gp-priority: normal
+msgid "The email has been unscheduled due to the complete order and won't be sent further."
+msgstr "L’e-mail n’a pas été programmé en raison de la commande complète et ne sera plus envoyé."
+
+#: modules/cart-abandonment/includes/cartflows-ca-single-report-details.php:163
+#, gp-priority: normal
+msgid "User Address Details:"
+msgstr "Détails de l’adresse de l’utilisateur :"
+
+#: modules/cart-abandonment/includes/cartflows-ca-single-report-details.php:175
+#, gp-priority: normal
+msgid "Billing Address"
+msgstr "Adresse de facturation"
+
+#: modules/cart-abandonment/includes/cartflows-ca-single-report-details.php:179
+#, gp-priority: normal
+msgid "Email address"
+msgstr "Adresse e-mail"
+
+#: modules/cart-abandonment/includes/cartflows-ca-single-report-details.php:184
+#, gp-priority: normal
+msgid "Phone"
+msgstr "Téléphone"
+
+#: modules/cart-abandonment/includes/cartflows-ca-single-report-details.php:195
+#, gp-priority: normal
+msgid "Country, City:"
+msgstr "Pays, ville :"
+
+#: modules/cart-abandonment/includes/cartflows-ca-single-report-details.php:198
+#: modules/cart-abandonment/includes/cartflows-ca-single-report-details.php:218
+#, gp-priority: normal
+msgid "State:"
+msgstr "État :"
+
+#: modules/cart-abandonment/includes/cartflows-ca-single-report-details.php:202
+#: modules/cart-abandonment/includes/cartflows-ca-single-report-details.php:224
+#, gp-priority: normal
+msgid "Postcode:"
+msgstr "Code Postal :"
+
+#: modules/cart-abandonment/includes/cartflows-ca-single-report-details.php:207
+#, gp-priority: normal
+msgid "Shipping Address"
+msgstr "Adresse de livraison"
+
+#: modules/cart-abandonment/includes/cartflows-ca-single-report-details.php:215
+#, gp-priority: normal
+msgid "City:"
+msgstr "Ville :"
+
+#: modules/cart-abandonment/includes/cartflows-ca-single-report-details.php:221
+#, gp-priority: normal
+msgid "Country:"
+msgstr "Pays :"
+
+#: modules/cart-abandonment/includes/cartflows-ca-single-report-details.php:232
+#, gp-priority: normal
+msgid "Checkout Link"
+msgstr "Lien vers la commande"
+
+#: modules/cart-abandonment/includes/cartflows-ca-single-report-details.php:247
+#, gp-priority: normal
+msgid "User Order Details:"
+msgstr "Détails de la commande de l’utilisateur :"
+
+#: modules/cart-abandonment/includes/cartflows-cart-abandonment-reports.php:50
+#: modules/cart-abandonment/includes/cartflows-cart-abandonment-reports.php:112
+#, gp-priority: normal
+msgid "Recoverable Orders"
+msgstr "Commandes récupérables"
+
+#: modules/cart-abandonment/includes/cartflows-cart-abandonment-reports.php:54
+#, gp-priority: normal
+msgid "Total Recoverable Orders."
+msgstr "Total des commandes récupérables."
+
+#: modules/cart-abandonment/includes/cartflows-cart-abandonment-reports.php:59
+#: modules/cart-abandonment/includes/cartflows-cart-abandonment-reports.php:115
+#, gp-priority: normal
+msgid "Recovered Orders"
+msgstr "Commandes récupérées"
+
+#: modules/cart-abandonment/includes/cartflows-cart-abandonment-reports.php:61
+#, gp-priority: normal
+msgid "Total Recovered Orders."
+msgstr "Total des commandes récupérées."
+
+#: modules/cart-abandonment/includes/cartflows-cart-abandonment-reports.php:66
+#: modules/cart-abandonment/includes/cartflows-cart-abandonment-reports.php:118
+#, gp-priority: normal
+msgid "Lost Orders"
+msgstr "Commandes perdues"
+
+#: modules/cart-abandonment/includes/cartflows-cart-abandonment-reports.php:69
+#, gp-priority: normal
+msgid "Total Lost Orders."
+msgstr "Total des commandes perdues."
+
+#: modules/cart-abandonment/includes/cartflows-cart-abandonment-reports.php:78
+#, gp-priority: normal
+msgid "Recoverable Revenue"
+msgstr "Montant recouvrable"
+
+#: modules/cart-abandonment/includes/cartflows-cart-abandonment-reports.php:83
+#, gp-priority: normal
+msgid "Total Recoverable Revenue."
+msgstr "Total des montants récupérables."
+
+#: modules/cart-abandonment/includes/cartflows-cart-abandonment-reports.php:88
+#, gp-priority: normal
+msgid "Recovered Revenue"
+msgstr "Montant recouvré"
+
+#: modules/cart-abandonment/includes/cartflows-cart-abandonment-reports.php:94
+#, gp-priority: normal
+msgid "Total Recovered Revenue."
+msgstr "Total des montants récupérés."
+
+#: modules/cart-abandonment/includes/cartflows-cart-abandonment-reports.php:99
+#, gp-priority: normal
+msgid "Recovery Rate"
+msgstr "Taux de récupération"
+
+#: modules/cart-abandonment/includes/cartflows-cart-abandonment-reports.php:101
+#, gp-priority: normal
+msgid "Total Percentage Of Recovered Orders After Abandonment."
+msgstr "Pourcentage total des commandes recouvrées après l’abandon."
+
+#: modules/cart-abandonment/includes/cartflows-cart-abandonment-reports.php:156
+#, gp-priority: normal
+msgid "No Orders Found."
+msgstr "Aucune commande trouvée."
+
+#: modules/cart-abandonment/includes/cartflows-cart-abandonment-tabs.php:16
+#, gp-priority: normal
+msgid "WooCommerce Cart Abandonment Recovery  "
+msgstr "Récupération d’abandon de panier WooCommerce "
+
+#. Plugin Name of the plugin
+#, gp-priority: normal
+msgid "WooCommerce Cart Abandonment Recovery"
+msgstr "Récupération d’abandon de panier WooCommerce"
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+#, gp-priority: normal
+msgid "https://cartflows.com/"
+msgstr "https://cartflows.com/"
+
+#. Description of the plugin
+#, gp-priority: normal
+msgid "Recover your lost revenue. Capture email address of users on the checkout page and send follow up emails if they don't complete the purchase."
+msgstr "Récupérez vos montants perdus. Saisissez l’adresse e-mail des utilisateurs sur la page de paiement et envoyez des e-mails de suivi s’ils ne finalisent pas l’achat."
+
+#. Author of the plugin
+#, gp-priority: normal
+msgid "CartFlows Inc"
+msgstr "CartFlows Inc"
+
+#: classes/class-cartflows-ca-settings.php:758
+#: modules/cart-abandonment/classes/class-cartflows-ca-email-templates-table.php:88
+#: modules/cart-abandonment/classes/class-cartflows-ca-email-templates-table.php:122
+#: modules/cart-abandonment/classes/class-cartflows-ca-order-table.php:86
+#: modules/cart-abandonment/classes/class-cartflows-ca-order-table.php:138
+#, gp-priority: normal
+msgid "Delete"
+msgstr "Supprimer"
+
+#: classes/class-cartflows-ca-tabs.php:496
+#, gp-priority: normal
+msgid "Looks like abandonment tracking is disabled! Please enable it from  <a href="
+msgstr "On dirait que le suivi des abandons est désactivé ! Veuillez l’activer à partir de  <a href="
+
+#: modules/cart-abandonment/includes/cartflows-ca-single-report-details.php:189
+#: modules/cart-abandonment/includes/cartflows-ca-single-report-details.php:209
+#, gp-priority: normal
+msgid "Address 1:"
+msgstr "Adresse 1 :"
+
+#: modules/cart-abandonment/includes/cartflows-ca-single-report-details.php:192
+#: modules/cart-abandonment/includes/cartflows-ca-single-report-details.php:212
+#, gp-priority: normal
+msgid "Address 2:"
+msgstr "Adresse 2 :"
+
+#: modules/cart-abandonment/classes/class-cartflows-ca-email-schedule.php:290
+#, gp-priority: normal
+msgid "Cart Total ( Cart Total + Shipping + Tax )"
+msgstr "Total du panier (total panier + expédition + TVA)"
